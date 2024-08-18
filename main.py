@@ -1,4 +1,4 @@
-print("BARANI")
+print("BARANI_K")
 """
 import machine
 import time
