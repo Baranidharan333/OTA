@@ -1,2 +1,0 @@
-print("BARANI_K")
-
