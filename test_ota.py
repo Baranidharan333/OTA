@@ -1,1 +1,1 @@
-print("BARANI_IS_KING")
+print("BARANI_IS_KING_MISTRY")
